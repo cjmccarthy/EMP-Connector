@@ -1,0 +1,4 @@
+integration_name: com.newrelic
+instances:
+  - name: sf1
+      command: events

@@ -1,0 +1,8 @@
+name: com.newrelic
+protocol_version: 1
+description: Collect events from Salesforce
+os: linux
+commands:
+  events:
+    command: 
+      - invoke.sh
